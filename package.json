@@ -1,5 +1,3 @@
-HEAD
-
 {
   "name": "openedusnr-frontend",
   "version": "0.1.0",
@@ -19,7 +17,6 @@ HEAD
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   }
-HEAD
 }
 }
 0b16bb999fb2dbaa1fe9cd3fc10adf39bd04f00f
