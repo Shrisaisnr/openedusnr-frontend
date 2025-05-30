@@ -1,15 +1,12 @@
 {
   "name": "openedusnr-frontend",
   "version": "0.1.0",
-{
-  "name": "openedusnr-frontend",
-  "version": "1.0.0",
-0b16bb999fb2dbaa1fe9cd3fc10adf39bd04f00f
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "tailwindcss": "^3.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -18,5 +15,3 @@
     "eject": "react-scripts eject"
   }
 }
-}
-0b16bb999fb2dbaa1fe9cd3fc10adf39bd04f00f
