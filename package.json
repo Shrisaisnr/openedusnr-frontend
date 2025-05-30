@@ -1,7 +1,12 @@
+HEAD
 
 {
   "name": "openedusnr-frontend",
   "version": "0.1.0",
+{
+  "name": "openedusnr-frontend",
+  "version": "1.0.0",
+0b16bb999fb2dbaa1fe9cd3fc10adf39bd04f00f
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
@@ -14,4 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   }
+HEAD
 }
+}
+0b16bb999fb2dbaa1fe9cd3fc10adf39bd04f00f
